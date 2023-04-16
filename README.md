@@ -4,9 +4,9 @@
 ![donuts-are-good's followers](https://img.shields.io/github/followers/donuts-are-good?&color=555&style=for-the-badge&label=followers) ![donuts-are-good's stars](https://img.shields.io/github/stars/donuts-are-good?affiliations=OWNER%2CCOLLABORATOR&color=555&style=for-the-badge) ![donuts-are-good's visitors](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
 
 
-## Download: [Windows](htps://github.com/donuts-are-good/consolequest/releases/latest), [MacOS](htps://github.com/donuts-are-good/consolequest/releases/latest), [Linux](htps://github.com/donuts-are-good/consolequest/releases/latest) 
+### Download: [Windows](https://github.com/donuts-are-good/consolequest/releases/latest), [MacOS](https://github.com/donuts-are-good/consolequest/releases/latest), [Linux](https://github.com/donuts-are-good/consolequest/releases/latest) 
 
-## Demo: [Video](https://asciinema.org/a/Iu5Vu6S2j9IAPSenvH8ZU3OX2)
+### Demo: [Video](https://asciinema.org/a/Iu5Vu6S2j9IAPSenvH8ZU3OX2)
 </center>
 
 # Console Quest 
