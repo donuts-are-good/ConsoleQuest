@@ -1,0 +1,4 @@
+github.com/donuts-are-good/colors v1.1.1 h1:1dl9M5B8v+5N8y9iggmyi1QWndCRBbeiknrm8wyiZ6U=
+github.com/donuts-are-good/colors v1.1.1/go.mod h1:qJm/kwHGeQLrMKWyplA9/IkT9wwOLL3vx0Wlcn7ntPc=
+golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
+golang.org/x/sys v0.7.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
